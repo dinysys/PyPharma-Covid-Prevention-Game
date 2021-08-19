@@ -1,1 +1,0 @@
-# PyPharma-Covid-Prevention-Game
